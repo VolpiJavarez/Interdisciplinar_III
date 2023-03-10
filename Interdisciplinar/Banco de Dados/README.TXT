@@ -1,0 +1,2 @@
+Aqui esta a parte de Banco de Dados. A parte conceitual dos os diagramas lista de procedures e etc talvez nao sejam nescessrias.
+De qualquer forma, como somente eu estarei fazendo a parte de banco, nao tem que se preocupar muto alem da parte de criacao de tabelas(talvez precise dar uma olhada na parte de views)

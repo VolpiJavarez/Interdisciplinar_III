@@ -1,0 +1,2 @@
+Da parte de LP3 so foram feitos alguns arquivos .fxml da parte grafica para login do usuario. E possivel abri-los atarves do SceneBuilder, um programa para criacao de inerfaces FXML que o professor ira passasar - provavelmente - nas proximas aulas.
+Eles estao bem simples e foram usados na disciplina de IHC como prototipos de interface. La tem algumas imagens que eu coloquei caso so queira dar uma olhada 
