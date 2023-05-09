@@ -1,2 +1,2 @@
 Os documentos criados para a 2 entrega de IHC tem a intencao de servir como base pra a a criacao da interface final.
-De todos os documentos que eu tenho aqui fazem parte da entrega final. eu coloquei tudo caso queira dar uma olhada no que tem por vir.
+Todos os documentos que estão aqui fazewm parte da entrega final. Eu coloquei tudo caso queira dar uma olhada no que tem por vir.

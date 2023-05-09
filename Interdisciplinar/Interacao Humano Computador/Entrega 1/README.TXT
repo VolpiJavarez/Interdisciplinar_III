@@ -1,3 +1,2 @@
 Aqui estao os documento para primeira entrega. 
-Por enqunto esta tudo documentos de texto, o ideal seria organizar as personas, mapas de empatia e cenarios em arquivos separados
-para facilitar na hora de fazer os slides.
+As personas e mapas de empatia estão em todos os aquivos e tambem separdas em uma pasta para facilitar. Eu recomendo ler a ultima versao do documento de texto, caso queira ter uma ideia mais completa do que sera feito no projeto.
